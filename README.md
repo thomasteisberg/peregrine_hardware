@@ -16,6 +16,13 @@ This assembly normally lives in the nosecone of the Peregrine UAV, as seen in th
 
 <img src="payload_enclosure/img/peregrine_from_front.jpg" alt="Front view of the Peregrine UAS showing the payload enclousure within the nosecone" width="50%" />
 
+## Payload enclosure PCBs
+
+There are two custom PCBs that live inside the payload enclosure. They are:
+
+* [Peregrine Pi Hat](pcbs/pi_hat/README.md)
+* [Peregrine Payload Divider](pcbs/payload_divider/README.md)
+
 ## Antennas
 
 <img src="antennas/underwing_bowtie_antennas/bowtie_on_scale.jpg" alt="Bowtie antenna on a scale" width="50%" />

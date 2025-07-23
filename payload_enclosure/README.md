@@ -10,6 +10,13 @@ fpr each of the variants described below.
 
 The `fabrication_files_(variant)` contain ready-to-use files for fabrication. See [fabrication notes](#fabrication) below.
 
+### Payload enclosure PCBs
+
+There are also two custom PCBs that live inside the payload enclosure. They are:
+
+* [Peregrine Pi Hat](../pcbs/pi_hat/README.md)
+* [Peregrine Payload Divider](../pcbs/payload_divider/README.md)
+
 ## Variants
 
 There are three variants included here:
