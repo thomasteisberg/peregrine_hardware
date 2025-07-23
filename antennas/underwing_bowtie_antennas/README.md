@@ -18,6 +18,8 @@ The design is not particularly sensitive to the FR4 thickness. For Peregrine, I 
 
 The total width (588 mm) is larger than what many PCB manufacturers can do. We produced this PCB with PCBWay.
 
+If you want to copy our settings exaclty, the design is shared on PCBWay: https://www.pcbway.com/project/shareproject/Peregrine_under_wing_bowtie_antenna_c198dc1e.html
+
 ## Bill of Materials
 
 * U1 (balun): [Mini-Circuits TC4-1W+](https://www.minicircuits.com/WebStore/dashboard.html?model=TC4-1W%2B)
