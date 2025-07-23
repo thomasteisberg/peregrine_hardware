@@ -26,3 +26,9 @@ If you want to copy our settings exaclty, the design is shared on PCBWay: https:
 * RF1 (U.FL connector): [U.FL-R-SMT-1(40)](https://www.mouser.com/ProductDetail/Hirose-Connector/U.FL-R-SMT-140?qs=PABxe4V6HDrVNWAmh6WKgw%3D%3D&srsltid=AfmBOopH3k4K2ASrjq8ZP3SyGSTScw2wuCMmbPjLw4Hym1gIAsaXcrwh)
 * Suggested U.FL to SMA cable: [CSI-SGFI-100-UFFR ](https://www.mouser.com/ProductDetail/TE-Connectivity-Linx-Technologies/CSI-SGFI-100-UFFR?qs=j%252B1pi9TdxUbVF8XdLr3HSg%3D%3D)
 * Silicone adhesive: [EGS10C-20G](https://www.digikey.com/en/products/detail/chip-quik-inc/EGS10C-20G/10059587)
+
+## Design notes
+
+The design is loosely described in our first Peregrine paper: [Development of a UAV-Borne Pulsed Ice-Penetrating Radar System](https://doi.org/10.1109/IGARSS46834.2022.9883583) [[PDF]](https://www.thomasteisberg.com/assets/pdf/igarss2022_peregrine.pdf)
+
+The design was inspried by this paper: [A 900MHz shielded bow-tie antenna system for ground penetrating radar](https://doi.org/10.1109/ICGPR.2010.5550125)
