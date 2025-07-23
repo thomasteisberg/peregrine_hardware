@@ -1,4 +1,4 @@
-# Peregrine Hardware FIles
+# Peregrine Hardware Files
 
 This repository contains hardware design and fabrication files for the Peregrine UAV-borne radio echo sounder (Part of the ORCA project)
 
@@ -18,10 +18,18 @@ This assembly normally lives in the nosecone of the Peregrine UAV, as seen in th
 
 ## Payload enclosure PCBs
 
+<img src="pcbs/payload_divider/payload_divider_step1.jpg" alt="Peregrine Payload Divider PCB" width="50%" />
+
 There are two custom PCBs that live inside the payload enclosure. They are:
 
 * [Peregrine Pi Hat](pcbs/pi_hat/)
 * [Peregrine Payload Divider](pcbs/payload_divider/)
+
+## Other PCBs
+
+<img src="pcbs/5v_power/5v_power.jpg" alt="5V switching regulator PCBA" width="50%" />
+
+* [5V Switching Power Supply](pcbs/5v_power/)
 
 ## Antennas
 
