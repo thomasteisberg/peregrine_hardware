@@ -10,7 +10,11 @@ The source project in EasyEDA is titled `uav-pi-hat-v4`.
 
 ## Production notes
 
-The female header `J1` that connects to the Pi needs to be a low-profile header. The one in the schematic is just a placeholder. I believe that the one I've used is [CES-106-01-L-D](https://www.digikey.com/en/products/detail/samtec-inc/CES-106-01-L-D/6714165). If anyone wants to confirm this part works, I'd appreciate it.
+The Gerber files, BOM, and Pick and Place files are in the [fabrication_files](fabrication_files/) subdirectory. I've produced this PCB with JLCPCB in the past, but there's nothing particularly unique about the requirements. Any board house should be able to do it.
+
+For part availability and process reasons, I have never had any of the through-hole parts assembled by JLCPCB. Read the next sentence to make sure you get the right female header!
+
+**Important note:** The female header `J1` that connects to the Pi needs to be a low-profile header. The one in the schematic is just a placeholder. I believe that the one I've used is [CES-106-01-L-D](https://www.digikey.com/en/products/detail/samtec-inc/CES-106-01-L-D/6714165). If anyone wants to confirm this part works, I'd appreciate it.
 
 ## Design notes
 
