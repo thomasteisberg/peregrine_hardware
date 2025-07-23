@@ -10,7 +10,7 @@ Design files produced by us are available under an [MIT License](LICENSE). For v
 
 <img src="payload_enclosure/img/payload_enclosure_pi4_onscale.png" width="50%" alt="Photo of an assembled payload enclosure" />
 
-The [payload enclosure](payload_enclosure/README.md) is the box containing the Ettus b205-mini SDR and the Raspberry Pi for the Peregrine UAS.
+The [payload enclosure](payload_enclosure/) is the box containing the Ettus b205-mini SDR and the Raspberry Pi for the Peregrine UAS.
 
 This assembly normally lives in the nosecone of the Peregrine UAV, as seen in the photo below, however it can be re-purpose in other ways.
 
@@ -20,11 +20,11 @@ This assembly normally lives in the nosecone of the Peregrine UAV, as seen in th
 
 There are two custom PCBs that live inside the payload enclosure. They are:
 
-* [Peregrine Pi Hat](pcbs/pi_hat/README.md)
-* [Peregrine Payload Divider](pcbs/payload_divider/README.md)
+* [Peregrine Pi Hat](pcbs/pi_hat/)
+* [Peregrine Payload Divider](pcbs/payload_divider/)
 
 ## Antennas
 
 <img src="antennas/underwing_bowtie_antennas/bowtie_on_scale.jpg" alt="Bowtie antenna on a scale" width="50%" />
 
-* [Peregrine under-wing edge-cut bowtie antennas](antennas/underwing_bowtie_antennas/README.md)
+* [Peregrine under-wing edge-cut bowtie antennas](antennas/underwing_bowtie_antennas/)
