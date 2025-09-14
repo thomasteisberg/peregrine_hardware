@@ -1,4 +1,4 @@
-# Peregrine Payload Divider
+# 5V Power for Peregine Payload
 
 <img src="5v_power.jpg" alt="5V power PCB hooked up to a power supply, the radar payload, an a data logger" width="50%" />
 
