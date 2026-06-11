@@ -14,7 +14,7 @@ This antenna is designed to be printed on standard FR4. FR4 is generally not con
 
 <img src="peregrine-s11-comparison.png" alt="Antenna S11 results from several individual units" width="50%" />
 
-The design is not particularly sensitive to the FR4 thickness. For Peregrine, I had this produced on 0.6 mm FR4 substrate, which significantly reduces the weight. Note that 0.6mm FR4 substrate is not ridgid on its own, which may be a downside depending on how you plan to use this.
+The design is not particularly sensitive to the FR4 thickness. For Peregrine, I had this produced on 0.6 mm FR4 substrate, which significantly reduces the weight. Note that 0.6mm FR4 substrate is not rigid on its own, which may be a downside depending on how you plan to use this.
 
 The total width (588 mm) is larger than what many PCB manufacturers can do. We produced this PCB with PCBWay.
 
